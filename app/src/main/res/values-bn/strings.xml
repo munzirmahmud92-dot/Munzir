@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Munzir voice cloner</string>
+    <string name="cd_app_logo">Munzir voice cloner লোগো</string>
+    <string name="cd_hero_banner">Munzir voice cloner অডিও তরঙ্গ ব্যানার</string>
+    <string name="cd_back">পিছনে যান</string>
+    <string name="cd_play">অডিও চালান</string>
+    <string name="cd_pause">অডিও বিরতি দিন</string>
+    <string name="cd_stop">অডিও থামান</string>
+    <string name="cd_share">অডিও শেয়ার করুন</string>
+    <string name="cd_delete">মুছে ফেলুন</string>
+    <string name="cd_rename">নাম পরিবর্তন করুন</string>
+    <string name="cd_record">ভয়েস নমুনা রেকর্ড করুন</string>
+    <string name="cd_stop_record">রেকর্ডিং থামান</string>
+    <string name="cd_import_audio">অডিও ফাইল আমদানি করুন</string>
+    <string name="cd_refresh">রিফ্রেশ করুন</string>
+</resources>

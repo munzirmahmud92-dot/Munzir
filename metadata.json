@@ -1,0 +1,6 @@
+{
+  "name": "Munzir voice cloner",
+  "description": "Bilingual Bangla and English AI audio studio with Gemini TTS, offline TextToSpeech, personal voice library, and WAV/MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

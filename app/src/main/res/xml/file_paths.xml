@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path
+        name="studio_audio"
+        path="audio/" />
+    <files-path
+        name="studio_exports"
+        path="exports/" />
+    <files-path
+        name="voice_samples"
+        path="voice_samples/" />
+    <cache-path
+        name="shared_audio"
+        path="." />
+</paths>

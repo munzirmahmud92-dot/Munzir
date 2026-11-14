@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Munzir voice cloner</string>
+    <string name="cd_app_logo">Munzir voice cloner logo</string>
+    <string name="cd_hero_banner">Munzir voice cloner acoustic waveform backdrop</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_play">Play audio</string>
+    <string name="cd_pause">Pause audio</string>
+    <string name="cd_stop">Stop audio</string>
+    <string name="cd_share">Share audio file</string>
+    <string name="cd_delete">Delete item</string>
+    <string name="cd_rename">Rename item</string>
+    <string name="cd_record">Record voice sample</string>
+    <string name="cd_stop_record">Stop recording</string>
+    <string name="cd_import_audio">Import audio sample</string>
+    <string name="cd_refresh">Refresh</string>
+</resources>
